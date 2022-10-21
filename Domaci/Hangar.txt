@@ -1,0 +1,9 @@
+Obicni avion: 
+Oznaka: BOING-747, Klase: BOING-747, 
+
+Obicni avion: 
+Oznaka: SAB-340, Klase: SAB-340, 
+
+Vojni avion: 
+Oznaka: An-26, Klase: An-26, Vojni avion: 
+Oznaka: MIG-29, Klase: MIG-29, 
